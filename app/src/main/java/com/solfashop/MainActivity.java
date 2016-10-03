@@ -64,10 +64,10 @@ public class MainActivity extends AppCompatActivity
         navigationView.setNavigationItemSelectedListener(this);
 
         if (savedInstanceState == null) {
-            getSupportFragmentManager()
-                    .beginTransaction()
-                    .replace(R.id.root_layout, TabFragment.newInstance())
-                    .commit();
+//            getSupportFragmentManager()
+//                    .beginTransaction()
+//                    .replace(R.id.root_layout, TabFragment.newInstance())
+//                    .commit();
         }
 
 
