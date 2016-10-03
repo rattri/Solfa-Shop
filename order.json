@@ -1,28 +1,28 @@
 [
   {
     "produk":"steam wallet",
-    "harga":"1000",
+    "harga":1000,
     "jumlah":2,
     "total":2000,
     "picture":"http://freesteamcodes.net/wp-content/uploads/2014/10/url1.png"
   },
   {
     "produk":"google wallet",
-    "harga":"5000",
+    "harga":5000,
     "jumlah":1,
     "total":5000,
     "picture":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Google_Wallet_logo.svg/2000px-Google_Wallet_logo.svg.png"
   },
   {
     "produk":"garena",
-    "harga":"2000",
+    "harga":2000,
     "jumlah":2,
     "total":4000,
     "picture":"https://mazagenanet.files.wordpress.com/2015/01/logo-garena-indonesia.png"
   },
    {
     "produk":"i-tune",
-    "harga":"4000",
+    "harga":4000,
     "jumlah":1,
     "total":4000,
     "picture":"https://screenshots.en.sftcdn.net/en/scrn/30000/30110/itunes-43-535x535.png"
